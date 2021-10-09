@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chumpa_n", "Chumpa_n\Chumpa_n.csproj", "{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Debug|x64.ActiveCfg = Debug|x64
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Debug|x64.Build.0 = Debug|x64
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Release|x64.ActiveCfg = Release|x64
+		{2E5E1618-A0B1-4893-AB07-8B20A53E5A3C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F25198C3-5ED1-49EB-91DA-12F99FAED8CB}
+	EndGlobalSection
+EndGlobal
