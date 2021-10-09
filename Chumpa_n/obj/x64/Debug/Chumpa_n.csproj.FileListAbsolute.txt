@@ -1,0 +1,10 @@
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\bin\x64\Debug\Chumpa_n.exe.config
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\bin\x64\Debug\Chumpa_n.exe
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\bin\x64\Debug\Chumpa_n.pdb
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.csproj.AssemblyReference.cache
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.Form1.resources
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.Properties.Resources.resources
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.csproj.GenerateResource.cache
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.csproj.CoreCompileInputs.cache
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.exe
+C:\Users\Aydar\Documents\projects\Chumpa_n\Chumpa_n\obj\x64\Debug\Chumpa_n.pdb
